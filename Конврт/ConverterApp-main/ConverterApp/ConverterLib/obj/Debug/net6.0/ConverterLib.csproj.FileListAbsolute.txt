@@ -1,0 +1,15 @@
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\bin\Debug\net6.0\ConverterLib.deps.json
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\bin\Debug\net6.0\ConverterLib.dll
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\bin\Debug\net6.0\ref\ConverterLib.dll
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\bin\Debug\net6.0\ConverterLib.pdb
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\bin\Debug\net6.0\PhysicValuesLib.dll
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\bin\Debug\net6.0\PhysicValuesLib.pdb
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ConverterLib.csproj.AssemblyReference.cache
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ConverterLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ConverterLib.AssemblyInfoInputs.cache
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ConverterLib.AssemblyInfo.cs
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ConverterLib.csproj.CoreCompileInputs.cache
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ConverterLib.csproj.CopyComplete
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ConverterLib.dll
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ref\ConverterLib.dll
+D:\РАБОЧИЙ СТОЛ\Конврт\ConverterApp-main\ConverterApp\ConverterLib\obj\Debug\net6.0\ConverterLib.pdb
